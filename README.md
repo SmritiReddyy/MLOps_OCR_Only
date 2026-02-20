@@ -7,3 +7,6 @@ Working_on_ENG_SPA1.ipynb
 Working_on_ENG_SPA2.ipynb
 - overlapping still exists but overlapping with logo fixed
   
+Working_on_ENG_SPA3.ipynb
+- overlapping issue fixed, translation seems mostly perfect
+- 
